@@ -3,5 +3,5 @@
 ## Basic Use
 
 This repo is a simple dummy dashboard for 1MT.
-```Run the env.sh 
-   python run app.py```
+1. Run the env.sh 
+2. "python run app.py"
